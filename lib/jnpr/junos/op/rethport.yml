@@ -10,5 +10,6 @@ RethPortTable:
 RethPortView:
   fields:
     tag: link-address
-    name: description
+    description: description
+    networks: .//ifa-destination
 
