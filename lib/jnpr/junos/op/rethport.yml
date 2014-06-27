@@ -9,6 +9,5 @@ RethPortTable:
 
 RethPortView:
   fields:
-    tag: link-address
     name: description
 
