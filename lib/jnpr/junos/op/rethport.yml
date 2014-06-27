@@ -4,10 +4,11 @@ RethPortTable:
   args:
     interface_name: 'reth*'
   args_key: interface_name
-  item: logical-interface
+  item: physical-interface/logical-interface
   view: RethPortView
 
 RethPortView:
   fields:
+    tag: link-address
     name: description
 
