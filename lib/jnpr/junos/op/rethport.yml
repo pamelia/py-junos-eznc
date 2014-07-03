@@ -11,6 +11,6 @@ RethPortView:
   fields:
     tag: link-address
     description: description
-    network: .//ifa-destination
-    address: .//ifa-local
+    networks: .//ifa-destination
+    addresses: .//ifa-local
 
